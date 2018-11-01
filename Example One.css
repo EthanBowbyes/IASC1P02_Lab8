@@ -1,0 +1,38 @@
+/* 1P02 Example One */
+
+body{ background-color: blue;}
+.boxthree{
+	margin-top:30px;
+	margin-right:80%;
+	border: black 4px dashed; 
+	border-color: white;
+	padding-top: 20px;
+    padding-right: 1px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+} 
+.boxtwo{
+	margin-top:30px;
+	margin-bottom:20px;
+	margin-left:30px;
+	border: black 2px dashed; 
+	border-color: green
+} 
+.box{
+	margin-top:170px;
+	margin-right:8%;
+	margin-bottom:5%;
+	margin-left:8%;
+	border: black 6px solid; 
+	border-color: black
+	padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 1px;
+} 
+
+#red {
+	color: red;
+	font-size: 18px;
+}
+
+

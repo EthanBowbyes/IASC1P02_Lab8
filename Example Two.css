@@ -1,0 +1,36 @@
+/* 1P02 Example Two */
+
+.box{
+	margin-top:10px;
+	border: black 3px dashed; 
+	border-color: purple;
+	padding-top: 18%;
+    padding-right: 1%;
+    padding-bottom: 1px;
+    padding-left: 1%;
+} 
+#green {
+	color: green;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.text2{
+  color:orange;
+  font-size:40px;
+  text-align: left;
+}
+.text3{
+	color:purple;
+  font-family:"Trebuchet", Trebuchet, sans-serif;
+  font-size:100%;
+  text-align: right;
+  font-size: 10px;
+}
+#red{
+	color: red;
+}
+#yellow{
+	color: yellow;
+	font-size: 10px;
+}
